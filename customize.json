@@ -1,7 +1,7 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
+  "greeting": "Haaalo",
+  "name": "Birthday wali patarn",
+  "greetingText": "Dharmo baji you super cool!",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are Special",
+  "text5Content": "Thats how you are my patarn paen, very special =) ",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "Okay, ab rona band kar, dont be senti xD.",
+  "replayText": "Click to watch again manra.",
   "outroSmiley": ":)"
 }
